@@ -2,9 +2,11 @@
 computer architecture and organization assembly project
 
 **The program filters the data during the copy process, preserving only specified characters.**
+
 Usage instruction: ./scopy in_file out_file
 
 **Description**
+
 The scopy program takes two parameters: in_file (the source file) and out_file (the destination file).
 The program performs the following actions:
 
